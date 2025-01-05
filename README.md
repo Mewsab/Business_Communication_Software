@@ -3,6 +3,7 @@
 This is the repository for the business communication software.
 
 # Functionality
+. secure login
 . seamless communication 
 . robust software
 
